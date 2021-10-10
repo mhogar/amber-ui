@@ -1,5 +1,7 @@
 # amber-ui
 
+Official UI Front-End for [Amber](https://github.com/mhogar/amber).
+
 ## Project setup
 ```
 npm install
